@@ -2,7 +2,7 @@
 This is a project that I built to practice and show understanding of full stack development. It is built with a variety of technologies, including **Redux** and **Firebase**.
 
 ## Tech Stack
-This UI clone was built with **Typescript, React, and Redux** (with **Styled Components**) for the front end, with **Firebase**'s Firestore and Authentication services handling the back end database for movie information, and user authentication respectively.
+This UI clone was built with **Typescript, React, and Redux** (with **Styled Components**) for the front end, with **Firebase**'s Firestore and Authentication services handling the back end database for movie information, and user authentication respectively. Source control was handled with **Git**.
 
 ## Goal
 The goal of this project was to practice full stack development, including handling routes with **react-router-dom**, and database interaction with **Firebase**. I also used this project to practice other technologies such as **Redux** for state management, and **Styled Components** for a reduced codebase, and more modular components.
